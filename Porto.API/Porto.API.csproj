@@ -9,7 +9,7 @@
     <PackageReference Include="Microsoft.EntityFrameworkCore" Version="2.2.0"/>
     <PackageReference Include="Microsoft.EntityFrameworkCore.Sqlite" Version="2.2.0"/>
     <PackageReference Include="Swashbuckle.AspNetCore" Version="5.0.0-rc2" />
-    <PackageReference Include="Swashbuckle.AspNetCore.SwaggerUI" Version="5.0.0-rc2" />
+    <PackageReference Include="Swashbuckle.AspNetCore.SwaggerUI" Version="6.4.0" />
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="..\Porto.Business\Porto.Business.csproj"/>
